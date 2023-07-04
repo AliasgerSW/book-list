@@ -1,7 +1,7 @@
 {
   "name": "signimus-test",
   "version": "1.0.0",
-  "description": "",
+  "description": "This is a simple web application that allows users to create and view a list of books. It provides basic CRUD (Create, Read, Update, Delete) functionality for managing books.",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
